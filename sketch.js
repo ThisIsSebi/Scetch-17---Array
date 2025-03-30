@@ -2,7 +2,7 @@
 
 // create different shapes in a class, store it in a file, put it in a list and make it pop up each time you click on the screen;
 
-var words = ["rainbow","heart","purple","friendship","love","acceptance"];
+var words = ["rainbow","heart","purple","friendship","love","acceptance","trust"];
 
 var index = 0
 
